@@ -74,8 +74,8 @@ let copyCommands = (commands) => {
         // }
         console.log(commands);
     } else {
-        console.log('here')
         clipboard.writeSync(commands);
+        console.log('Copied');
     }
 }
 
