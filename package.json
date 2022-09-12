@@ -1,0 +1,18 @@
+{
+  "name": "mudae-commands",
+  "version": "1.0.0",
+  "description": "Mudae Utilities Scripts",
+  "main": "mudae.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mudae"
+  ],
+  "author": "Tony Hermann",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  }
+}
